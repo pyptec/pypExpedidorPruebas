@@ -1,0 +1,13 @@
+C51 COMPILER V9.59.0.0   PTO_PARALELO                                                      08/05/2020 11:37:30 PAGE 1   
+
+
+C51 COMPILER V9.59.0.0, COMPILATION OF MODULE PTO_PARALELO
+OBJECT MODULE PLACED IN .\Objects\pto_paralelo.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE pto_paralelo.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.
+                    -\Listings\pto_paralelo.lst) TABS(2) OBJECT(.\Objects\pto_paralelo.obj)
+
+line level    source
+
+*** ERROR C318 OF pto_paralelo.c: can't open file 'pto_paralelo.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)

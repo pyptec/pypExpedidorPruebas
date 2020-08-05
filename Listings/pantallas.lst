@@ -1,0 +1,13 @@
+C51 COMPILER V9.59.0.0   PANTALLAS                                                         08/05/2020 11:37:30 PAGE 1   
+
+
+C51 COMPILER V9.59.0.0, COMPILATION OF MODULE PANTALLAS
+OBJECT MODULE PLACED IN .\Objects\pantallas.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE pantallas.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Li
+                    -stings\pantallas.lst) TABS(2) OBJECT(.\Objects\pantallas.obj)
+
+line level    source
+
+*** ERROR C318 OF pantallas.c: can't open file 'pantallas.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)

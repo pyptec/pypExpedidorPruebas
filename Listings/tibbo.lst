@@ -1,0 +1,13 @@
+C51 COMPILER V9.59.0.0   TIBBO                                                             08/05/2020 11:37:30 PAGE 1   
+
+
+C51 COMPILER V9.59.0.0, COMPILATION OF MODULE TIBBO
+OBJECT MODULE PLACED IN .\Objects\tibbo.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE tibbo.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listin
+                    -gs\tibbo.lst) TABS(2) OBJECT(.\Objects\tibbo.obj)
+
+line level    source
+
+*** ERROR C318 OF tibbo.c: can't open file 'tibbo.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)

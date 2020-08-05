@@ -1,0 +1,13 @@
+C51 COMPILER V9.59.0.0   LINTECH                                                           08/05/2020 11:37:31 PAGE 1   
+
+
+C51 COMPILER V9.59.0.0, COMPILATION OF MODULE LINTECH
+OBJECT MODULE PLACED IN .\Objects\lintech.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE lintech.c LARGE OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\List
+                    -ings\lintech.lst) TABS(2) OBJECT(.\Objects\lintech.obj)
+
+line level    source
+
+*** ERROR C318 OF lintech.c: can't open file 'lintech.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
